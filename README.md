@@ -12,7 +12,7 @@ Screen for new users to create an account. Enter CNIC, Email, Roll Number, and P
 
 # Register Screen 
 Screen for new users to create an account. Enter CNIC, Email, Roll Number, and Password. Tap **Register** to proceed to the dashboard or **Login** if you already have an account.
-![Register Screen](assets/screenshots/dashboard.png)
+![Register Screen](assets/screenshots/www.png)
 
 
 
