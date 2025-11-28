@@ -21,7 +21,7 @@ Developed as a learning project to explore Flutter development, practice UI desi
 
 ---
 
-## 📲 Login Screen 
+## Login Screen 
 A clean sign-in screen where users enter their roll number and password. Includes password visibility toggle, forgot password navigation, and a gradient background.
 <p align="center">
   <img src="assets/screenshots/login.png" width="300" />
