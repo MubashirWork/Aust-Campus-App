@@ -48,13 +48,17 @@ Displays user information including name, roll number, program, semester, email,
 
 
 ### Settings Screen
-<img src="assets/screenshots/setting.png" width="300">
 Lists app settings including account, notifications, reminders, privacy, help, and about sections. Each item is displayed in a clean card layout for easy navigation.
+<p align="center">
+  <img src="assets/screenshots/setting.png" width="300" />
+</p>
 
 
 ### App Drawer
-<img src="assets/screenshots/drawer.png" width="300">
 Provides quick navigation to Home, Profile, and Settings. Includes a logout button and uses a clean header design for easy access to app sections.
+<p align="center">
+  <img src="assets/screenshots/drawer.png" width="300" />
+</p>
 
 
 
