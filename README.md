@@ -10,6 +10,10 @@ A clean sign-in screen where users enter their roll number and password. Include
 Screen for new users to create an account. Enter CNIC, Email, Roll Number, and Password. Tap **Register** to proceed to the dashboard or **Login** if you already have an account.
 ![Register Screen](assets/screenshots/register.png)
 
+# Register Screen 
+Screen for new users to create an account. Enter CNIC, Email, Roll Number, and Password. Tap **Register** to proceed to the dashboard or **Login** if you already have an account.
+![Register Screen](assets/screenshots/dashboard.png)
+
 
 
 
