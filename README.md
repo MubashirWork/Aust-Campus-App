@@ -124,7 +124,7 @@ Includes **password visibility toggle**, **forgot password navigation**, and a *
   <img src="assets/screenshots/login.png" width="300" />
 </p>
 
----
+--
 
 ## 📝 Register Screen
 Screen for **new users** to create an account.  
@@ -135,7 +135,7 @@ Tap **Register** to proceed to the dashboard or **Login** if you already have an
   <img src="assets/screenshots/register.png" width="300" />
 </p>
 
----
+--
 
 ## 🔑 Forgot Password Screen
 Allows users to **reset their password** by entering their **email, new password**, and **confirming it**.  
