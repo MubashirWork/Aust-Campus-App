@@ -3,13 +3,15 @@ A simple and responsive university app UI built with Flutter. Features a splash 
 
 # Login Screen 
 A clean sign-in screen where users enter their roll number and password. Includes password visibility toggle, forgot password navigation, and a gradient background.
+![Register Screen](assets/screenshots/vv.png)
 
 # Register Screen 
 Screen for new users to create an account. Enter CNIC, Email, Roll Number, and Password. Tap **Register** to proceed to the dashboard or **Login** if you already have an account.
+![Register Screen](assets/screenshots/vv.png)
 
 # Register Screen 
 Screen for new users to create an account. Enter CNIC, Email, Roll Number, and Password. Tap **Register** to proceed to the dashboard or **Login** if you already have an account.
-![Register Screen](assets/screenshots/vvv.png)
+![Register Screen](assets/screenshots/vv.png)
 
 
 
