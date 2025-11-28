@@ -6,7 +6,7 @@ Developed as a learning project to explore Flutter development, practice UI desi
 
 ---
 
-# 📑 Table of Contents 
+## 📑 Table of Contents 
 - [Login Screen](#login-screen)
 - [Register Screen](#register-screen)
 - [Forgot Password Screen](#forgot-password-screen)
