@@ -1,5 +1,4 @@
-<img width="277" height="600" alt="vv" src="https://github.com/user-attachments/assets/94b79d7e-7535-4609-9984-97e09e6972ff" /># Aust-Campus-App
-
+# Aust-Campus-App
 A simple and responsive university app UI built with Flutter. Features a splash screen, drawer navigation, dashboard items, profile section, and reusable components. Developed as a learning project to explore Flutter development, practice UI design, and implement clean architecture principles.
 
 # Login Screen 
